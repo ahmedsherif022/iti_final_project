@@ -216,6 +216,7 @@ print(top_10)
 6. **Ranking System Delivers Real Value:** 2.4–2.6× better than random, giving HR an actionable prioritized list.
 
 ---
+## Live Demo : https://itifinalproject-gjqkccw53yxuzcaqsgwmzj.streamlit.app/
 
 ## 🔮 Next Steps
 - **Hyperparameter Tuning:** Grid/Random search beyond default XGBoost config.
